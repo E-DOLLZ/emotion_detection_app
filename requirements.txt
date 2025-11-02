@@ -65,3 +65,5 @@ fastapi
 uvicorn[standard]
 setuptools>=70.0.0
 fer
+
+tensorflow>=2.14.0
